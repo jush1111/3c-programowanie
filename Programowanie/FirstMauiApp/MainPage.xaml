@@ -5,7 +5,7 @@
              x:Name="thisPage">
 
     <StackLayout>
-        <Slider x:Name="rotationSlider"
+        <Slider x:Name="rotationSlider"  
                 Maximum="360"
                 MaximumTrackColor="Bisque"
                 Minimum="0"
